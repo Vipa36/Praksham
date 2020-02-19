@@ -1,0 +1,381 @@
+/*Body textography*/
+
+.section{
+	margin-top:80px !important;
+	margin-right:10%;
+	margin-left:10%;
+}
+
+.section-big{
+    margin-top:100px !important;
+    /*margin-right:10%;*/
+    /*margin-left:10%;*/
+    text-align:justify;
+}
+
+.section-big h2 {
+    color:#2e6399;
+}
+
+
+.section-big p{
+    font-size:1.2rem;
+    font-weight:500;
+    line-height:1.7;
+    text-align:justify;
+    margin:0 10%;
+}
+
+.section h1{
+	font-weight:800;
+	margin-bottom:20px;
+	color:#2e6399 !important;
+	text-align:center !important;
+	text-transform: uppercase;
+}
+
+.color{
+    color: #2e6399;
+}
+
+.section p{
+	/*margin:0 10%;*/
+	text-align:justify;
+}
+
+.section p span{
+	color:#2e6399;
+}
+
+.section a{
+	margin-top:30px;
+	color:#2e6399;
+	border-color:#2e6399;
+	text-align:center;
+}
+
+.mu20{
+	margin-top:30px;
+}
+
+img{
+	max-width: 100%;
+	height:auto;
+}
+
+
+.quotes{
+	width:100;
+	margin-top:80px !important;
+	border-left:8px solid #2e6399;
+}
+
+.quote{
+	font-weight:400;
+	font-size:1.2em;
+	margin-bottom:.3rem;
+	text-align:left !important;
+	line-height:1.2;
+	padding-right:10%;
+}
+
+.fa-quote-left{
+	color:#2e6399;
+	margin-left:10px;
+}
+
+.envname{
+	font-size:14px !important;
+	text-transform:uppercase;
+	color:#2e6399;
+}
+
+
+
+.number{
+	text-align: center;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: 2px solid #2e6399;
+    -webkit-transition: 0.3s border-color;
+    transition: 0.3s border-color;
+}
+
+.number i{
+	/*color:#2e6399;*/
+	margin-bottom:10px;
+}
+
+.fa-tree{
+    color:#349042;
+}
+
+.fa-handshake-o{
+    color:#eac086;
+}
+
+.fa-money{
+    color:#85bb65;
+}
+
+.fa-certificate{
+    color:#e1ea46;
+}
+
+.number span{
+	color:#2e6399;
+}
+
+.subscribe{
+	margin-top:80px;
+	padding:30px 0;
+	width:100%;
+	border-top:1px solid #2e6399;
+    background:#2e6399;
+}
+
+.subscribe h2{
+	color:#fff;
+}
+
+.subscriber-form {
+    background: #fff none repeat scroll 0 0;
+    margin:0 15%;
+    border: 1px solid #2e6399;
+    height: 40px;
+    position: relative;
+    text-transform: capitalize;
+    text-decoration-color: #2e6399;
+}
+
+.subscriber-form input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    color: #000000;
+    height: 100%;
+    left: 0;
+    letter-spacing: 1px;
+    padding: 10px 10px 10px 15px;
+    position: absolute;
+    top: 0;
+    width: 80%;
+}
+
+.subscriber-form button {
+    background: #ffffff none repeat scroll 0 0;
+    border: 0 none;
+    color: #2e6399;
+    font-size: 20px;
+    height: 100%;
+    letter-spacing: 2px;
+    position: absolute;
+    right: 0;
+    text-transform: uppercase;
+    top: 0;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    width: 80px;
+}
+
+.subscriber-form button:hover {
+    background: #2e6399 none repeat scroll 0 0;
+    color: #ffffff;
+}
+
+.copyright{
+	color:#2e6399;
+}
+
+
+
+/*Video Area*/
+.video-promo-details {
+    border-radius: 10px;
+}
+
+.video-promo-content {
+    color: #ffffff;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 100%;
+}
+
+.video-area-popup {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 50%;
+    color: #2e6399;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 30px;
+    height: 70px;
+    line-height: 1;
+    padding-left: 5px;
+    padding-top: 20px;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    width: 70px;
+}
+
+.video-area-popup:hover {
+    background: #2e6399 none repeat scroll 0 0;
+    -webkit-box-shadow: 0 0 10px 10px #ffffff;
+    box-shadow: 0 0 10px 10px #ffffff;
+    color: #ffffff;
+}
+
+
+/*Recent Stories*/
+.resto img{
+    margin-bottom:20px;
+    border-radius:5px;
+}
+
+.resto img:hover{
+    transform: scale(1.1);
+    transition: all .3s ease-out;
+}
+
+.resto h5{
+    /*font-size:1.5rem;*/
+    color:#294859;
+}
+
+
+
+/*------About------*/
+
+
+.history hr{
+    border:none;
+    width:60px;
+    height:3px;
+    background-color:#2e6399;
+}
+
+.mb60{
+    margin-bottom:60px;
+}
+
+
+/*Contact*/
+
+.contact-form-contact-info p {
+    margin-bottom: 30px;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #000;
+}
+
+.contact-form-contact-info p .icon {
+    top: -4px;
+    position: relative;
+    width: 0px;
+    font-size: 30px;
+    color: #2e6399;
+}
+
+.submit{
+    background-color:#2e6399;
+    border:1px solid #2e6399;;
+}
+
+.submit:hover{
+    background-color: white;
+    border:1px solid #2e6399;
+    color: #2e6399;
+}
+
+.form-control:focus, .form-control:active{
+    border-color:#2e6399;
+}
+
+.headbig{
+    font-size: 60px !important; 
+}
+
+
+/*Donate*/
+
+.dline h2{
+    font-size: 3rem;
+    color:#535662;
+    padding:20px 0px 20px 0px;
+}
+
+.dline p{
+ color:#616263;
+
+}
+
+.dline img{
+    margin:20px;
+    /*border:1px solid #2e6399;*/
+
+}
+
+.dline img:hover{
+    transform: scale(1.1);
+    transition: all .3s ease-out
+}
+
+
+/*Approach*/
+.jumbotron{
+    margin:0 10% 30px 10%;
+    /*background-color:#2e63994d;*/
+  box-shadow:0px 1px 3px 6px #2e63994d;
+  margin-bottom:50px;
+
+}
+
+/*why trees*/
+.card{
+    margin:30px 0;
+}
+
+/*Pledge*/
+
+.mu100{
+    margin-top:100px;
+}
+.fa-circle{
+    color:#2e6399;
+}
+.mt25{
+    margin-top:25px;
+}
+
+
+/*Recent Stories Pages*/
+
+.story{
+    color:#fff;
+    font-size:50px;
+}
+
+.artl{
+    margin:80px 50px 80px 50px;
+}
+
+.artl p{
+    text-align: justify;
+    font-size:1.1rem;
+    line-height:1.7;
+}
+
+.artl h3{
+    color:#294859;
+}
+
+.artl img{
+    margin-top:50px;
+    max-height: 100%;
+    width: 100%;
+    overflow: auto;
+    position:absolute;
+}
